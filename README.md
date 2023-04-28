@@ -33,14 +33,14 @@ Lors du lancement du programme, si il n'est ciblé par aucun partage, alors "Auc
 Lorsque le proffeseur souhaite partager un ou plusieurs fichiers à ses élèves, il doit les séléctionner un par un en cliquant sur le bouton *"Télécharger un fichier"*,
 il peut ensuite donner un titre à son partage dans le champs de texte prévu à cette effet, et enfin il doit choisir la classe auquel béneficiera ce partage en cliquant sur le bouton *"Destinataire du partage"* ce qui lui ouvrera une fenêtre ou il devra sélectionner le fichier classe ( selon les dispositions exposés en 2 ). Cela debloquera alors le bouton *"Envoyer les fichiers"*.   
 
-![imagepartag](https://github.com/chauletr/test/blob/main/partage.png)  
+![imagepartag](https://github.com/chauletr/test2/blob/main/partage.png)  
   
 Lorsque le professeur souhaite créer un QCM, il doit d'abord cliquer sur le bouton *"Créer un Nouveau QCM"*, ce qui lui ouvrira une fenetre dans lequel il devra ajouter des questions, des choix, les bonnes réponses serons listés à la suite, exemple ci dessous. Une fois fini, il devra cliquer sur le bouton *"Sauvegarder"* et une fenêtre s'ouvrira pour lui proposer ou enregistrer le fichier. Le QCM sera nommée "QCM nom_du_qcm.txt", les reponses quant à elles, "QCM nom_du_qcm co.txt".  
 
 `/!\ Il faut veiller à garder les réponses dans le même dossier que le QCM /!\`
 
-![imageqcmcre](https://github.com/chauletr/test/blob/main/qcm!creation.png)
+![imageqcmcre](https://github.com/chauletr/test2/blob/main/qcm!creation.png)
 
 Lorsque le proffeseur souhaite partager un QCM à ses élèves, il doit le séléctionner en cliquant sur le bouton *"Télécharger un QCM"*, il doit choisir la classe auquel béneficiera ce QCM en cliquant sur le bouton *"Selectionner les élèves"* ce qui lui ouvrera une fenêtre ou il devra sélectionner le fichier classe ( selon les dispositions exposés en 2 ). Cela debloquera alors le bouton *"Commencer le QCM"*. Une fois le QCM commencé le professeur pourra cliquer sur le bouton *"Raffraichir les réponses "* pour que s'actualise un tableau avec les réponses de chaques élèves ainsi que leurs note /20.  
 
-![imageqcm](https://github.com/chauletr/test/blob/main/qcm.png)
+![imageqcm](https://github.com/chauletr/test2/blob/main/qcm.png)
